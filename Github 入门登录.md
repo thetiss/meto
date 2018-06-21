@@ -8,7 +8,12 @@
 
 > https://www.zhihu.com/question/20070065
 
+> 你在Github上发现的有意思的项目
 > https://www.zhihu.com/question/23498424
+
+> 前端资料大全
+> https://github.com/nieweidong/fetool#cool
+ 
 
 > *入门Github*
 >

@@ -1,9 +1,13 @@
 ##### 你值得拥有
 
 https://www.jianshu.com/p/8d497989f704
+
 https://github.com/xirong/my-git/blob/master/how-to-use-github.md
+
 https://www.zhihu.com/question/20070065
+
 你在Github上发现的有意思的项目 https://www.zhihu.com/question/23498424
+
 前端资料大全 https://github.com/nieweidong/fetool#cool
 # 写在之前
 ## meto项目主要是技能的入门帖子
